@@ -41,7 +41,7 @@ function App() {
             ref={passwordRef}
         />
         <button
-        onClick={copyPasswordToClipboard}
+        onClick={copyPasswordToClipboard} />
         
     </div>
     <div className='flex text-sm gap-x-2'>
